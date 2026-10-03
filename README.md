@@ -3,7 +3,7 @@ Proyecto 2 de la carrera de Fundamentos de Programcion
 
 Hernandez Martinez Julio Cesar
 
-Proyecto 2 de la carrera de FP en el cual muestra como calcular el imc y determinar la categoria del peso del usurio.
+Proyecto 2 de la carrera de FP en el cual muestra como calcular el imc y determinar la categoria del peso del usuario.
 
 Declaro que no he utilizado IA para este proyecto.
 
